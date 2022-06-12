@@ -1,0 +1,236 @@
+CertificationCourses,Gender,Department,Height(CM),Weight(KG),10Mark,12Mark,CollegeMark,Hobbies,DailyStudingTime,PreferToStudyIn,SalaryExpectation,LikeDegree,CareerBasedonDegree,GamesSpendingTime,TravellingTime ,StressLevel ,FinancialStatus,PartTimeJob?
+No,Male,BCA,100,58,79,65,80,Video Games,0 - 30 minute,Morning,40000,No,50%,1.30 - 2 hour,30 - 60 minutes,Bad,Bad,No
+No,Female,BCA,90,40,70,80,70,Cinema,30 - 60 minute,Morning,15000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Bad,Bad,No
+Yes,Male,BCA,159,78,69.5,61,55,Cinema,1 - 2 Hour,Anytime,13000,Yes,50%,More than 2 hour,30 - 60 minutes,Awful,Bad,No
+Yes,Female,BCA,147,20,70,59,58,Reading books,1 - 2 Hour,Anytime,1500000,No,50%,1.30 - 2 hour,0 - 30 minutes,Bad,good,No
+No,Male,BCA,170,54,40,65,30,Video Games,30 - 60 minute,Morning,50000,Yes,25%,1.30 - 2 hour,30 - 60 minutes,Good,good,No
+Yes,Female,BCA,139,33,90,75,70,Cinema,30 - 60 minute,Night,20000,Yes,50%,30 - 60 Minute,0 - 30 minutes,Bad,good,No
+Yes,Male,BCA,165,50,70,63,3,Reading books,1 - 2 Hour,Morning,15000,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+No,Male,BCA,152,43,61.6,61.67,75,Sports,1 - 2 Hour,Morning,25000,Yes,50%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+No,Male,BCA,190,85,88.2,67.5,60,Video Games,0 - 30 minute,Morning,20000,Yes,75%,1.30 - 2 hour,1 - 1.30 hour,Bad,Bad,No
+No,Male,BCA,150,84,60,65,70,Video Games,0 - 30 minute,Anytime,20000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+No,Male,BCA,99,50,75,70,60,Video Games,1 - 2 Hour,Morning,18000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Good,Bad,No
+No,Female,BCA,152,51,60,55,65,Cinema,2 - 3 hour,Night,20000,Yes,75%,1 - 1.30 hour,2 - 2.30 hour,Bad,Bad,No
+Yes,Female,BCA,158,64,59,54,80,Reading books,30 - 60 minute,Morning,18000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Bad,good,No
+No,Male,BCA,160,52,50,55,50,Cinema,0 - 30 minute,Anytime,17,Yes,75%,30 - 60 Minute,1.30 - 2 hour,Good,Awful,No
+Yes,Male,BCA,160,83,89.5,69.7,70,Cinema,30 - 60 minute,Anytime,60000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,156,68,54,48,60,Video Games,30 - 60 minute,Anytime,18000,Yes,75%,1 - 1.30 hour,more than 3 hour,Good,Bad,No
+Yes,Male,BCA,153,52,83,76,75,Sports,1 - 2 Hour,Anytime,15000,Yes,75%,1.30 - 2 hour,30 - 60 minutes,Good,good,Yes
+Yes,Male,BCA,162,60,62,61.3,53,Cinema,0 - 30 minute,Night,0,Yes,100%,1 - 1.30 hour,1 - 1.30 hour,Bad,Bad,No
+No,Male,BCA,150,60,60,65,60,Cinema,0 - 30 minute,Anytime,30000,Yes,100%,1 - 30 Minute,1 - 1.30 hour,Bad,Bad,No
+Yes,Female,BCA,109,42,60,70,88,Cinema,30 - 60 minute,Anytime,20000,Yes,100%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,160,50,65,65,50,Sports,30 - 60 minute,Anytime,10000,Yes,75%,30 - 60 Minute,1 - 1.30 hour,Bad,Bad,Yes
+No,Male,BCA,154,51,65,70,50,Cinema,1 - 2 Hour,Morning,20000,Yes,50%,1 - 30 Minute,1 - 1.30 hour,Good,Bad,No
+No,Female,BCA,142,42,78,60,60,Cinema,1 - 2 Hour,Anytime,25000,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Bad,good,No
+No,Male,BCA,180,90,75,73.8,65,Video Games,1 - 2 Hour,Morning,18000,Yes,50%,1 - 1.30 hour,30 - 60 minutes,Good,good,No
+No,Male,BCA,167,85,75,60,80,Cinema,0 - 30 minute,Anytime,20000,Yes,50%,1.30 - 2 hour,2 - 2.30 hour,Awful,good,No
+No,Male,BCA,90,89,60,50,50,Sports,30 - 60 minute,Morning,18000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Bad,good,Yes
+Yes,Male,BCA,175,73,90,90,80,Cinema,1 - 2 Hour,Anytime,30000,Yes,50%,0 Minute,1 - 1.30 hour,Good,Bad,No
+No,Male,BCA,151,69,73,85,55,Sports,0 - 30 minute,Morning,15000,Yes,100%,1 - 1.30 hour,30 - 60 minutes,Good,good,No
+No,Female,BCA,145,39,89,77,65,Sports,30 - 60 minute,Night,20000,Yes,100%,0 Minute,1 - 1.30 hour,Awful,Bad,Yes
+No,Female,BCA,99,40,94,94,80,Reading books,30 - 60 minute,Night,15000,Yes,75%,1 - 1.30 hour,30 - 60 minutes,Good,Bad,No
+No,Male,BCA,151,52,60,65,65,Sports,0 - 30 minute,Morning,30000,Yes,75%,30 - 60 Minute,1.30 - 2 hour,Good,good,No
+No,Male,BCA,158,63,78,60,75,Sports,30 - 60 minute,Anytime,30000,Yes,100%,30 - 60 Minute,2.30 - 3 hour,Good,Bad,No
+Yes,Male,BCA,160,60,69,60,50,Sports,0 - 30 minute,Anytime,20000,Yes,75%,1 - 30 Minute,1.30 - 2 hour,Good,Awful,No
+No,Male,BCA,163,55,85.6,70,65,Cinema,1 - 2 Hour,Anytime,15000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Awful,Bad,No
+Yes,Male,BCA,160,70,65,60,65,Video Games,30 - 60 minute,Anytime,17000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Bad,good,No
+No,Male,BCA,144,50,70,60,60,Sports,0 - 30 minute,Morning,15000,Yes,50%,1 - 1.30 hour,1.30 - 2 hour,Bad,Bad,No
+No,Female,BCA,155,48,85,80,80,Sports,2 - 3 hour,Anytime,15000,Yes,100%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+No,Female,BCA,150,45,90,90,90,Cinema,0 - 30 minute,Night,25000,Yes,100%,1 - 1.30 hour,0 - 30 minutes,Awful,good,No
+Yes,Male,BCA,185,72,79,65,75,Video Games,30 - 60 minute,Morning,40000,Yes,75%,More than 2 hour,30 - 60 minutes,Good,Bad,No
+No,Male,BCA,165,50,77,87,60,Video Games,30 - 60 minute,Anytime,10000,No,25%,30 - 60 Minute,1 - 1.30 hour,Bad,Bad,No
+No,Female,BCA,175,43,54,51,66,Sports,30 - 60 minute,Morning,50000,Yes,50%,1 - 30 Minute,1 - 1.30 hour,Bad,good,No
+No,Female,BCA,98,35,70,55,70,Reading books,1 - 2 Hour,Night,20000,Yes,75%,1.30 - 2 hour,30 - 60 minutes,Good,good,No
+No,Female,Commerce,159,95,72,80,79,Cinema,0 - 30 minute,Anytime,10000,Yes,50%,More than 2 hour,0 - 30 minutes,Good,good,No
+No,Male,Commerce,160,70,70,70,70,Cinema,3 - 4 hour,Anytime,20000,Yes,100%,1 - 30 Minute,0 - 30 minutes,Good,good,Yes
+Yes,Male,Commerce,160,65,70,75,70,Sports,0 - 30 minute,Anytime,20000,Yes,75%,1 - 1.30 hour,30 - 60 minutes,Good,good,Yes
+Yes,Female,B.com Accounting and Finance ,154,45,64,88,70,Sports,1 - 2 Hour,Morning,10000,Yes,25%,1 - 1.30 hour,0 - 30 minutes,Bad,good,No
+No,Male,B.com Accounting and Finance ,160,80,75,75,75,Sports,30 - 60 minute,Anytime,30000,Yes,75%,More than 2 hour,1.30 - 2 hour,Good,good,No
+No,Male,B.com Accounting and Finance ,90,83,60,82,65,Video Games,0 - 30 minute,Anytime,100000,Yes,75%,30 - 60 Minute,1.30 - 2 hour,Awful,good,No
+Yes,Male,B.com Accounting and Finance ,156,70,66,65,60,Reading books,1 - 2 Hour,Morning,20000,Yes,50%,30 - 60 Minute,30 - 60 minutes,fabulous,good,No
+No,Male,B.com Accounting and Finance ,155,55,73,72,1,Reading books,1 - 2 Hour,Night,15000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,B.com Accounting and Finance ,153,56,62,53,80,Sports,1 - 2 Hour,Morning,50000,Yes,75%,30 - 60 Minute,2 - 2.30 hour,Awful,Awful,Yes
+Yes,Female,B.com Accounting and Finance ,157,53,85,88,89,Sports,1 - 2 Hour,Anytime,8000,Yes,100%,0 Minute,1 - 1.30 hour,Bad,Bad,No
+No,Male,B.com Accounting and Finance ,170,65,70,80,75,Reading books,More Than 4 hour,Anytime,15000,Yes,100%,1.30 - 2 hour,30 - 60 minutes,Bad,good,No
+Yes,Female,Commerce,159,67,98,80,85,Reading books,1 - 2 Hour,Anytime,15000,Yes,100%,1.30 - 2 hour,more than 3 hour,Good,Bad,No
+Yes,Female,Commerce,180,43,86,78,85,Reading books,1 - 2 Hour,Anytime,10000,Yes,75%,1.30 - 2 hour,30 - 60 minutes,Bad,good,No
+No,Male,Commerce,100,47,87,84,92,Sports,30 - 60 minute,Morning,20000,Yes,75%,1 - 1.30 hour,30 - 60 minutes,fabulous,Bad,No
+Yes,Female,Commerce,156,52,82,70,80,Reading books,2 - 3 hour,Morning,15000,Yes,100%,1 - 30 Minute,0 - 30 minutes,fabulous,Bad,Yes
+Yes,Female,Commerce,167,62,80,60,60,Sports,1 - 2 Hour,Morning,18000,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+Yes,Female,Commerce,152,60,93.6,85,93,Sports,1 - 2 Hour,Anytime,20000,Yes,100%,1 - 30 Minute,0 - 30 minutes,Good,good,No
+Yes,Male,B.com Accounting and Finance ,152,50,90,80,95,Sports,3 - 4 hour,Anytime,50000,Yes,75%,1 - 1.30 hour,30 - 60 minutes,Bad,Bad,Yes
+Yes,Female,Commerce,146,61,88,81,80,Cinema,30 - 60 minute,Morning,15000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Female,Commerce,156,42,87,78,84,Cinema,30 - 60 minute,Morning,15000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,Commerce,190,90,70,70,90,Cinema,More Than 4 hour,Anytime,15000,Yes,100%,More than 2 hour,30 - 60 minutes,Awful,Bad,Yes
+Yes,Male,BCA,155,89,89,69,80,Sports,30 - 60 minute,Anytime,20000,No,25%,More than 2 hour,30 - 60 minutes,Bad,Awful,Yes
+Yes,Male,BCA,160,55,70,60,70,Video Games,0 - 30 minute,Anytime,20000,Yes,50%,More than 2 hour,30 - 60 minutes,Bad,good,No
+Yes,Male,BCA,153,75,95,90,90,Cinema,1 - 2 Hour,Morning,25000,Yes,75%,More than 2 hour,1.30 - 2 hour,Good,good,Yes
+Yes,Female,BCA,160,42,80,75,75,Reading books,2 - 3 hour,Morning,20000,Yes,75%,1 - 30 Minute,1 - 1.30 hour,Good,good,No
+Yes,Male,BCA,100,93,90,62,79,Reading books,30 - 60 minute,Night,18000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Bad,Bad,No
+Yes,Male,BCA,157,58,84,65,85,Cinema,1 - 2 Hour,Night,50000,Yes,75%,30 - 60 Minute,2 - 2.30 hour,Good,good,No
+Yes,Male,BCA,162,73,50,50,60,Reading books,30 - 60 minute,Night,10000,Yes,75%,1 - 30 Minute,1 - 1.30 hour,Bad,good,No
+Yes,Male,BCA,99,78,91,60,60,Sports,30 - 60 minute,Anytime,15000,Yes,25%,1.30 - 2 hour,0 - 30 minutes,Bad,Bad,Yes
+No,Female,BCA,162,60,84,64,75,Sports,2 - 3 hour,Anytime,20000,Yes,50%,1 - 1.30 hour,30 - 60 minutes,Bad,good,No
+No,Female,BCA,160,35,87,75,89,Cinema,0 - 30 minute,Anytime,10000,No,25%,1 - 30 Minute,1 - 1.30 hour,Good,Bad,No
+Yes,Male,BCA,190,70,89.8,63.3,73.3,Sports,0 - 30 minute,Anytime,50000,Yes,50%,30 - 60 Minute,1 - 1.30 hour,Bad,good,No
+Yes,Male,BCA,160,60,89,69,80,Video Games,3 - 4 hour,Morning,20000,Yes,75%,1 - 1.30 hour,more than 3 hour,Good,good,Yes
+Yes,Male,BCA,150,74,75,55,60,Sports,30 - 60 minute,Morning,20000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Good,good,No
+Yes,Female,BCA,175,65,93,66,85,Reading books,1 - 2 Hour,Anytime,20000,Yes,100%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,172,91,92,69,85,Cinema,1 - 2 Hour,Night,15000,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+Yes,Male,BCA,157,76,88,58,50,Sports,30 - 60 minute,Night,20000,Yes,75%,1 - 1.30 hour,2 - 2.30 hour,Bad,Fabulous,No
+Yes,Male,BCA,100,60,88,70,70,Reading books,30 - 60 minute,Anytime,18000,No,50%,30 - 60 Minute,2.30 - 3 hour,Awful,Awful,No
+No,Female,BCA,155,52,7.4,79,75,Sports,1 - 2 Hour,Night,12000,Yes,75%,1.30 - 2 hour,30 - 60 minutes,Good,Bad,No
+Yes,Female,BCA,156,58,75,70,70,Cinema,More Than 4 hour,Anytime,10000,Yes,75%,More than 2 hour,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,106,64,80,70,75,Sports,0 - 30 minute,Morning,25000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Awful,Bad,No
+Yes,Male,BCA,170,67,81.4,69,75,Cinema,30 - 60 minute,Anytime,25000,No,100%,1.30 - 2 hour,0 - 30 minutes,Good,Awful,Yes
+Yes,Male,BCA,171,60,78,55,70,Reading books,3 - 4 hour,Anytime,21,Yes,100%,30 - 60 Minute,30 - 60 minutes,Awful,good,Yes
+No,Male,BCA,177,75,60,60,50,Cinema,30 - 60 minute,Morning,25000,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Good,Bad,No
+Yes,Female,BCA,170,45,75,64,74,Cinema,0 - 30 minute,Anytime,20000,No,25%,More than 2 hour,0 - 30 minutes,Good,good,No
+Yes,Female,BCA,180,75,90.2,61.6,85,Video Games,1 - 2 Hour,Anytime,35000,Yes,75%,More than 2 hour,0 - 30 minutes,Bad,good,No
+Yes,Male,BCA,174,54,80,62,75,Sports,30 - 60 minute,Night,20000,Yes,75%,30 - 60 Minute,2.30 - 3 hour,fabulous,Awful,No
+No,Male,BCA,172,56,86.5,65.3,79.5,Sports,0 - 30 minute,Morning,15000,Yes,75%,More than 2 hour,1 - 1.30 hour,Good,good,No
+Yes,Female,BCA,153,50,88.8,71,85,Cinema,3 - 4 hour,Morning,18000,Yes,100%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+Yes,Male,BCA,158,75,90,75,70,Sports,2 - 3 hour,Night,20000,Yes,50%,1.30 - 2 hour,2 - 2.30 hour,Bad,good,No
+No,Male,BCA,177,70,85,61,75,Reading books,2 - 3 hour,Anytime,30000,Yes,50%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+No,Male,BCA,175,65,76,70,7.5,Sports,1 - 2 Hour,Morning,15000,No,50%,1 - 1.30 hour,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,170,70,80,70,70,Cinema,3 - 4 hour,Night,50000,No,100%,More than 2 hour,more than 3 hour,Bad,good,Yes
+Yes,Male,BCA,180,80,91,73.3,85,Sports,30 - 60 minute,Morning,25000,Yes,100%,30 - 60 Minute,0 - 30 minutes,Good,good,No
+Yes,Female,BCA,4.5,42,85,90,85,Cinema,30 - 60 minute,Anytime,20000,Yes,100%,1 - 1.30 hour,30 - 60 minutes,Good,Awful,No
+Yes,Male,BCA,170,70,80,60,80,Sports,2 - 3 hour,Night,25000,Yes,75%,30 - 60 Minute,1 - 1.30 hour,Good,good,No
+No,Male,BCA,178,83,85.8,63.66,80,Sports,0 - 30 minute,Anytime,20000,Yes,75%,1.30 - 2 hour,0 - 30 minutes,Good,good,No
+No,Male,BCA,180,67,80,70,60,Video Games,0 - 30 minute,Anytime,10000,Yes,25%,1 - 30 Minute,0 - 30 minutes,Good,good,No
+No,Female,BCA,150,48,75,50,78,Sports,0 - 30 minute,Night,18000,Yes,50%,1 - 1.30 hour,0 - 30 minutes,Bad,Bad,No
+Yes,Female,BCA,170,50,95,75,85,Reading books,2 - 3 hour,Anytime,25000,Yes,50%,1 - 1.30 hour,1.30 - 2 hour,Good,good,No
+Yes,Female,BCA,162,65,95,85,86,Reading books,1 - 2 Hour,Night,15000,Yes,50%,1.30 - 2 hour,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,170,65,90,64,80,Reading books,30 - 60 minute,Anytime,20000,Yes,75%,1 - 30 Minute,1 - 1.30 hour,Bad,Bad,No
+Yes,Male,BCA,153,63,79.4,61.33,80.87,Sports,1 - 2 Hour,Anytime,25000,Yes,75%,1.30 - 2 hour,1 - 1.30 hour,Good,Bad,No
+No,Male,BCA,165,84,90,74,74,Cinema,30 - 60 minute,Anytime,30000,Yes,75%,30 - 60 Minute,0 - 30 minutes,Bad,Bad,No
+No,Male,BCA,163,60,77,70,60,Video Games,2 - 3 hour,Anytime,20000,Yes,75%,30 - 60 Minute,2 - 2.30 hour,Good,good,No
+Yes,Male,BCA,183,80,80,60,70,Video Games,0 - 30 minute,Anytime,10000,Yes,50%,1 - 30 Minute,0 - 30 minutes,Good,Bad,No
+Yes,Male,BCA,175,85,90,57,68,Reading books,1 - 2 Hour,Anytime,30000,Yes,100%,0 Minute,30 - 60 minutes,Good,Bad,No
+Yes,Male,BCA,156,53,84,63,70,Sports,0 - 30 minute,Morning,20000,Yes,50%,More than 2 hour,more than 3 hour,Good,Bad,No
+Yes,Male,BCA,154,50,86,68,70,Sports,30 - 60 minute,Anytime,20000,Yes,100%,1 - 1.30 hour,1 - 1.30 hour,Good,Bad,Yes
+Yes,Female,BCA,172,49,94,69,85,Cinema,30 - 60 minute,Anytime,12000,Yes,50%,30 - 60 Minute,2 - 2.30 hour,Bad,good,No
+Yes,Male,BCA,155,52,69,54,50,Cinema,30 - 60 minute,Anytime,16000,Yes,50%,30 - 60 Minute,30 - 60 minutes,Bad,good,No
+Yes,Male,BCA,172,72,85,64,80,Cinema,0 - 30 minute,Morning,15000,No,75%,1 - 30 Minute,30 - 60 minutes,Bad,Bad,No
+No,Male,BCA,181,60,88,88,80,Reading books,1 - 2 Hour,Anytime,15000,No,50%,30 - 60 Minute,1.30 - 2 hour,Bad,Awful,Yes
+No,Male,BCA,150,65,85,50,70,Video Games,30 - 60 minute,Anytime,25000,Yes,75%,1.30 - 2 hour,0 - 30 minutes,Bad,Bad,No
+Yes,Male,BCA,179,70,69,60,68,Video Games,0 - 30 minute,Night,20000,Yes,100%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,187,65,85,60,60,Sports,30 - 60 minute,Anytime,17000,Yes,75%,1 - 1.30 hour,2 - 2.30 hour,Bad,good,No
+Yes,Male,BCA,167,80,85,72,70,Sports,1 - 2 Hour,Anytime,18000,No,50%,1.30 - 2 hour,1 - 1.30 hour,Good,Bad,Yes
+Yes,Male,BCA,170,50,70,78,75,Cinema,0 - 30 minute,Anytime,15000,Yes,75%,More than 2 hour,0 - 30 minutes,Bad,good,No
+Yes,Female,B.com Accounting and Finance ,132,57,72,75,80,Reading books,2 - 3 hour,Night,20000,Yes,75%,30 - 60 Minute,0 - 30 minutes,Good,good,Yes
+Yes,Male,BCA,169,85,80,60,68,Video Games,30 - 60 minute,Night,20000,Yes,100%,1.30 - 2 hour,30 - 60 minutes,Bad,good,No
+Yes,Male,BCA,150,60,60,68.1,70,Sports,30 - 60 minute,Morning,15000,Yes,75%,1 - 1.30 hour,30 - 60 minutes,Good,Bad,Yes
+Yes,Male,BCA,180,75,84,55,70,Video Games,30 - 60 minute,Anytime,20000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Bad,good,No
+Yes,Female,BCA,154,45,72.6,62.6,85,Cinema,0 - 30 minute,Night,17000,Yes,100%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+Yes,Female,BCA,139,62,91,86,90,Cinema,30 - 60 minute,Morning,20000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Good,good,No
+No,Male,BCA,175,60,90,65,65,Sports,0 - 30 minute,Anytime,20000,Yes,75%,1 - 30 Minute,1 - 1.30 hour,Good,Bad,No
+Yes,Male,BCA,172,72,78,67,80,Cinema,3 - 4 hour,Anytime,20000,Yes,100%,1 - 30 Minute,1 - 1.30 hour,Good,good,No
+Yes,Male,BCA,170,55,91,81,75,Reading books,30 - 60 minute,Anytime,20000,Yes,75%,30 - 60 Minute,1.30 - 2 hour,Good,Bad,No
+No,Male,BCA,170,65,82,55,75,Cinema,30 - 60 minute,Anytime,25000,Yes,50%,30 - 60 Minute,30 - 60 minutes,Good,Bad,No
+No,Male,BCA,185,65,80.5,53,80,Sports,2 - 3 hour,Morning,50000,Yes,75%,1 - 1.30 hour,1.30 - 2 hour,Good,Awful,No
+Yes,Male,BCA,177,57,75,57,55,Sports,0 - 30 minute,Morning,18000,Yes,50%,1.30 - 2 hour,0 - 30 minutes,Good,good,No
+No,Male,BCA,170,86,75,68,70,Sports,0 - 30 minute,Anytime,20000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Good,good,No
+Yes,Male,B.com Accounting and Finance ,174,65,90,85,82,Cinema,1 - 2 Hour,Anytime,5000,Yes,50%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,167,72,85,60,60,Video Games,2 - 3 hour,Anytime,20000,Yes,50%,1 - 30 Minute,30 - 60 minutes,fabulous,good,No
+Yes,Female,BCA,155,48,84.2,64.8,84,Sports,30 - 60 minute,Anytime,20000,Yes,75%,1 - 30 Minute,1.30 - 2 hour,Good,good,No
+Yes,Male,BCA,134,40,91.4,65.5,82.96,Cinema,0 - 30 minute,Morning,20000,Yes,75%,More than 2 hour,30 - 60 minutes,Good,good,No
+No,Male,BCA,159,51,86,72,80,Reading books,More Than 4 hour,Morning,12500,No,75%,30 - 60 Minute,1 - 1.30 hour,Good,Bad,No
+Yes,Female,BCA,150,50,85,55,75,Video Games,2 - 3 hour,Anytime,20000,Yes,75%,30 - 60 Minute,1 - 1.30 hour,Good,good,Yes
+Yes,Female,BCA,150,40,80,60,60,Sports,30 - 60 minute,Anytime,15000,Yes,75%,More than 2 hour,0 - 30 minutes,Good,good,No
+Yes,Male,BCA,180,85,78,58,69,Sports,0 - 30 minute,Morning,12000,No,0%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,BCA,120,55,75,65,65,Sports,30 - 60 minute,Morning,20000,Yes,50%,30 - 60 Minute,0 - 30 minutes,Good,good,No
+Yes,Male,BCA,182,58,80,60,65,Sports,1 - 2 Hour,Night,25000,Yes,50%,30 - 60 Minute,30 - 60 minutes,Bad,good,No
+Yes,Male,BCA,165,67,90,70,50,Reading books,30 - 60 minute,Morning,15000,No,25%,1 - 30 Minute,more than 3 hour,Good,Bad,Yes
+Yes,Female,B.com Accounting and Finance ,160,38,80,88,80,Sports,2 - 3 hour,Anytime,10000,Yes,100%,30 - 60 Minute,2 - 2.30 hour,Good,good,No
+Yes,Male,B.com Accounting and Finance ,170,80,75,90,85,Sports,More Than 4 hour,Anytime,100000,Yes,100%,30 - 60 Minute,1.30 - 2 hour,fabulous,Bad,No
+No,Male,BCA,165,45,50,50,65,Cinema,0 - 30 minute,Night,15000,Yes,25%,1 - 30 Minute,0 - 30 minutes,fabulous,Fabulous,Yes
+Yes,Female,B.com Accounting and Finance ,148,78,71.2,79.5,70,Cinema,30 - 60 minute,Anytime,5000,Yes,50%,30 - 60 Minute,1 - 1.30 hour,Good,Bad,No
+No,Female,B.com Accounting and Finance ,130,35,80.2,70,12,Reading books,More Than 4 hour,Morning,30000,No,50%,30 - 60 Minute,1 - 1.30 hour,Good,Bad,No
+No,Female,BCA,140,45,85,63,74,Sports,30 - 60 minute,Night,10000,Yes,75%,More than 2 hour,30 - 60 minutes,Bad,Bad,No
+Yes,Male,BCA,175,70,90.2,72.8,85,Video Games,1 - 2 Hour,Morning,20000,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Good,Bad,No
+No,Male,BCA,175,76,61.8,68.3,66.3,Sports,2 - 3 hour,Morning,30000,Yes,50%,30 - 60 Minute,1.30 - 2 hour,Good,good,No
+No,Male,BCA,160,70,80,69,60,Sports,30 - 60 minute,Morning,20000,Yes,50%,30 - 60 Minute,1 - 1.30 hour,Awful,good,No
+Yes,Female,BCA,155,43,79,61,70,Cinema,1 - 2 Hour,Night,13000,Yes,50%,1.30 - 2 hour,0 - 30 minutes,Awful,Awful,No
+Yes,Female,BCA,156,50,64,49.5,85,Reading books,2 - 3 hour,Night,100000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Bad,Bad,No
+Yes,Female,BCA,160,50,86,68,80,Video Games,2 - 3 hour,Anytime,25000,Yes,75%,30 - 60 Minute,0 - 30 minutes,Good,Bad,No
+Yes,Male,BCA,175,68.9,71,66,80,Video Games,30 - 60 minute,Morning,15000,Yes,75%,1 - 1.30 hour,2 - 2.30 hour,Good,good,No
+Yes,Female,BCA,155,50,80,73,80,Cinema,0 - 30 minute,Anytime,50000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Good,Bad,Yes
+No,Male,Commerce,150,55,50,50,35,Sports,3 - 4 hour,Morning,15000,Yes,75%,More than 2 hour,1 - 1.30 hour,Good,Bad,No
+Yes,Male,Commerce,165,75,65,75,97,Cinema,0 - 30 minute,Anytime,15000,Yes,50%,1 - 1.30 hour,0 - 30 minutes,fabulous,good,Yes
+No,Male,Commerce,156,50,90,80,80,Sports,1 - 2 Hour,Morning,15000,No,25%,1 - 1.30 hour,30 - 60 minutes,Awful,Bad,No
+Yes,Male,Commerce,167,53,85,91,88,Video Games,30 - 60 minute,Morning,40000,Yes,25%,30 - 60 Minute,2 - 2.30 hour,Bad,Bad,No
+Yes,Male,Commerce,165,64,75,70,70,Video Games,30 - 60 minute,Morning,15000,Yes,75%,30 - 60 Minute,2.30 - 3 hour,Good,good,Yes
+Yes,Male,Commerce,190,106,82,78,80,Reading books,1 - 2 Hour,Anytime,25000,Yes,100%,1 - 30 Minute,1.30 - 2 hour,Good,Bad,Yes
+No,Male,Commerce,192,85,84,85,80,Cinema,30 - 60 minute,Anytime,25000,Yes,100%,30 - 60 Minute,more than 3 hour,Good,Bad,No
+Yes,Male,Commerce,173,58,91,83.5,80,Video Games,1 - 2 Hour,Night,35000,Yes,50%,30 - 60 Minute,2 - 2.30 hour,Bad,good,No
+Yes,Female,Commerce,145,60,92,75,90,Cinema,3 - 4 hour,Anytime,18000,Yes,100%,More than 2 hour,0 - 30 minutes,Bad,good,No
+Yes,Male,Commerce,170,90,75,75,80,Sports,30 - 60 minute,Anytime,40000,Yes,75%,1 - 1.30 hour,1.30 - 2 hour,Good,good,No
+Yes,Male,Commerce,169,65,90,80,85,Cinema,3 - 4 hour,Anytime,20000,Yes,75%,1.30 - 2 hour,more than 3 hour,Good,good,No
+Yes,Male,Commerce,175,59,81,64,85,Sports,1 - 2 Hour,Anytime,15000,Yes,50%,1.30 - 2 hour,30 - 60 minutes,Good,good,No
+Yes,Female,Commerce,150,42,70,71,91,Sports,1 - 2 Hour,Anytime,20000,Yes,75%,30 - 60 Minute,0 - 30 minutes,Good,Fabulous,No
+Yes,Male,Commerce,178,60,70,60,60,Sports,2 - 3 hour,Morning,25000,Yes,50%,1 - 30 Minute,30 - 60 minutes,Good,Bad,Yes
+Yes,Female,Commerce,157,40,93,86,85,Cinema,30 - 60 minute,Morning,15000,Yes,50%,More than 2 hour,30 - 60 minutes,Good,Bad,No
+No,Female,Commerce,160,40,76,63,70,Sports,30 - 60 minute,Night,15000,Yes,75%,1 - 1.30 hour,30 - 60 minutes,Good,good,Yes
+Yes,Male,Commerce,159,80,60,79,50,Cinema,30 - 60 minute,Morning,25000,Yes,0%,More than 2 hour,1.30 - 2 hour,Good,Bad,No
+No,Male,Commerce,182,57,83.7,76.77,80,Sports,30 - 60 minute,Night,11000,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Good,Bad,No
+No,Female,Commerce,150,54,76,76,92.8,Sports,3 - 4 hour,Anytime,25000,Yes,100%,1 - 1.30 hour,30 - 60 minutes,Good,Bad,No
+Yes,Female,Commerce,154,62,70,50,60,Cinema,1 - 2 Hour,Night,20000,Yes,50%,1 - 1.30 hour,30 - 60 minutes,Bad,Bad,No
+Yes,Female,Commerce,165,75,91,70,80,Cinema,1 - 2 Hour,Anytime,10000,Yes,50%,30 - 60 Minute,30 - 60 minutes,Bad,Awful,No
+Yes,Female,Commerce,150,40,80,75,70,Cinema,1 - 2 Hour,Morning,120000,Yes,50%,1 - 1.30 hour,0 - 30 minutes,Good,Bad,No
+Yes,Female,B.com ISM,149,50,60,60,60,Cinema,30 - 60 minute,Morning,15000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Bad,Bad,No
+No,Male,B.com ISM,150,48,60,77,50,Video Games,30 - 60 minute,Night,45000,Yes,50%,30 - 60 Minute,30 - 60 minutes,Bad,Bad,Yes
+No,Female,B.com ISM,160,50,60,70,65,Sports,0 - 30 minute,Night,5000,Yes,25%,30 - 60 Minute,1 - 1.30 hour,Good,Bad,No
+Yes,Male,B.com ISM,173,92,54,65,2,Cinema,0 - 30 minute,Anytime,23000,Yes,100%,More than 2 hour,1 - 1.30 hour,Good,good,No
+No,Male,B.com ISM,150,48,46,48,60,Sports,1 - 2 Hour,Anytime,30000,Yes,50%,1 - 30 Minute,1 - 1.30 hour,Bad,Bad,No
+Yes,Male,B.com ISM,163,80,76,47,30,Cinema,0 - 30 minute,Morning,500000,Yes,50%,1 - 30 Minute,0 - 30 minutes,Awful,Awful,No
+Yes,Male,B.com ISM,168,48,70,60,50,Sports,30 - 60 minute,Morning,40000,Yes,75%,1 - 30 Minute,more than 3 hour,Bad,Bad,No
+Yes,Male,B.com ISM,162,85,56,57,67,Sports,30 - 60 minute,Night,30000,Yes,75%,30 - 60 Minute,1 - 1.30 hour,Good,good,No
+Yes,Male,B.com ISM,170,80,67,70,60,Sports,More Than 4 hour,Anytime,700000,Yes,100%,1 - 30 Minute,0 - 30 minutes,Good,good,No
+No,Male,B.com ISM,145,50,75,79,70,Reading books,1 - 2 Hour,Morning,12000,Yes,50%,1 - 30 Minute,0 - 30 minutes,Good,Awful,No
+No,Male,B.com ISM,160,52,65,70,65,Video Games,30 - 60 minute,Night,20000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+No,Male,B.com ISM,180,65,86,86,89,Video Games,30 - 60 minute,Anytime,20000,Yes,50%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+No,Male,B.com ISM,149,35,70,67,65,Video Games,1 - 2 Hour,Anytime,15000,Yes,100%,1 - 30 Minute,0 - 30 minutes,Good,good,No
+No,Male,B.com ISM,173,60,60,52,60,Video Games,1 - 2 Hour,Night,20000,Yes,50%,30 - 60 Minute,1 - 1.30 hour,Bad,Bad,No
+No,Female,B.com ISM,149,40,60,60,60,Cinema,30 - 60 minute,Morning,15000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Bad,good,No
+Yes,Male,B.com ISM,170,55,50,50,50,Cinema,30 - 60 minute,Night,10000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Bad,good,Yes
+No,Female,B.com ISM,155,39,45,45,50,Sports,3 - 4 hour,Night,10,No,75%,30 - 60 Minute,30 - 60 minutes,fabulous,good,No
+Yes,Male,B.com ISM,153,45,67,54,86,Cinema,30 - 60 minute,Morning,30000,Yes,100%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,B.com ISM,170,65,79,62,60,Cinema,1 - 2 Hour,Morning,25000,Yes,75%,1 - 30 Minute,0 - 30 minutes,Good,good,No
+No,Male,B.com ISM,173,75,60,50,55,Sports,1 - 2 Hour,Anytime,20000,Yes,75%,1 - 30 Minute,1.30 - 2 hour,Bad,Bad,No
+Yes,Male,B.com ISM,170,60,50,50,50,Reading books,1 - 2 Hour,Anytime,50000,Yes,75%,More than 2 hour,1 - 1.30 hour,Bad,good,Yes
+Yes,Male,B.com ISM,120,74,80,70,70,Cinema,1 - 2 Hour,Anytime,15000,Yes,75%,More than 2 hour,30 - 60 minutes,Bad,Bad,Yes
+Yes,Female,Commerce,160,68,96,92,80,Cinema,3 - 4 hour,Morning,10000,Yes,75%,1.30 - 2 hour,0 - 30 minutes,Good,good,No
+No,Male,Commerce,140,86,76,83,70,Cinema,30 - 60 minute,Morning,15000,Yes,50%,More than 2 hour,30 - 60 minutes,Good,Bad,No
+Yes,Male,Commerce,165,60,55,50,60,Sports,0 - 30 minute,Morning,13000,Yes,50%,1 - 30 Minute,1 - 1.30 hour,Good,Bad,No
+Yes,Male,Commerce,161,55,89,79,70,Sports,30 - 60 minute,Morning,10000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Bad,Bad,No
+Yes,Female,Commerce,146,39,95.6,86,85,Cinema,1 - 2 Hour,Anytime,13000,Yes,75%,30 - 60 Minute,0 - 30 minutes,Good,good,No
+Yes,Male,Commerce,155,70,60,60,60,Sports,2 - 3 hour,Night,15000,Yes,50%,More than 2 hour,1 - 1.30 hour,Good,good,Yes
+No,Male,Commerce,120,80,81,80,70,Cinema,30 - 60 minute,Night,20000,Yes,50%,More than 2 hour,0 - 30 minutes,Good,Fabulous,Yes
+Yes,Male,Commerce,160,70,84,76,70,Video Games,30 - 60 minute,Anytime,15000,Yes,75%,More than 2 hour,1 - 1.30 hour,Bad,Bad,Yes
+Yes,Female,Commerce,152,32,80,60,70,Sports,1 - 2 Hour,Night,15,Yes,75%,1 - 1.30 hour,30 - 60 minutes,Bad,good,No
+No,Male,Commerce,168,75,75,65,75,Cinema,1 - 2 Hour,Morning,22,Yes,75%,1 - 1.30 hour,1 - 1.30 hour,Good,good,No
+Yes,Female,Commerce,152,64,90.4,80,80,Cinema,1 - 2 Hour,Anytime,15000,Yes,75%,30 - 60 Minute,1 - 1.30 hour,Good,good,No
+No,Male,Commerce,156,45,85,75,70,Sports,More Than 4 hour,Anytime,12000,Yes,75%,1 - 1.30 hour,2 - 2.30 hour,Good,Bad,Yes
+Yes,Female,Commerce,151,55,93.8,83.5,100,Reading books,1 - 2 Hour,Morning,15000,Yes,75%,1 - 1.30 hour,30 - 60 minutes,Good,good,Yes
+No,Female,Commerce,165,62,78,75,90,Sports,2 - 3 hour,Anytime,15000,Yes,100%,30 - 60 Minute,0 - 30 minutes,Good,good,No
+Yes,Female,Commerce,160,60,75,85,90,Cinema,2 - 3 hour,Anytime,20000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+Yes,Female,Commerce,153,58,85,74,75,Cinema,0 - 30 minute,Anytime,20000,Yes,75%,More than 2 hour,0 - 30 minutes,Awful,good,No
+Yes,Male,Commerce,175,75,88,85,90,Sports,30 - 60 minute,Morning,20000,Yes,75%,1 - 30 Minute,30 - 60 minutes,Good,good,No
+No,Male,Commerce,161,54,90,73,80,Cinema,30 - 60 minute,Morning,20000,Yes,100%,30 - 60 Minute,more than 3 hour,Bad,Bad,No
+Yes,Male,Commerce,160,60,85,80,80,Cinema,30 - 60 minute,Anytime,20000,Yes,100%,1 - 30 Minute,30 - 60 minutes,Awful,Bad,No
+Yes,Female,Commerce,153,45,83,73,75,Cinema,0 - 30 minute,Morning,20000,Yes,75%,30 - 60 Minute,0 - 30 minutes,Good,good,No
+Yes,Male,Commerce,160,50,85,80,60,Sports,30 - 60 minute,Night,100,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Good,Bad,No
+Yes,Male,Commerce,170,65,82,73,80,Cinema,0 - 30 minute,Anytime,16000,Yes,50%,1.30 - 2 hour,0 - 30 minutes,fabulous,Bad,No
+Yes,Female,Commerce,152,65,97,80,100,Reading books,3 - 4 hour,Morning,15000,Yes,100%,30 - 60 Minute,0 - 30 minutes,Good,good,Yes
+Yes,Female,Commerce,164,43,80,89,95,Reading books,2 - 3 hour,Morning,15000,Yes,100%,1 - 30 Minute,0 - 30 minutes,Good,good,No
+Yes,Female,Commerce,167,65,93,85,90,Reading books,1 - 2 Hour,Night,15000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+Yes,Male,B.com ISM,167,55,55,57,60,Sports,30 - 60 minute,Anytime,17000,Yes,25%,0 Minute,0 - 30 minutes,Awful,Bad,No
+Yes,Male,B.com ISM,155,68,75,75,65,Sports,1 - 2 Hour,Anytime,500,Yes,100%,1.30 - 2 hour,1 - 1.30 hour,Good,good,No
+No,Female,B.com ISM,153,60,60,70,70,Sports,1 - 2 Hour,Anytime,15000,Yes,75%,1 - 1.30 hour,0 - 30 minutes,Good,Bad,No
+Yes,Male,B.com ISM,170,76,72,67,65,Video Games,30 - 60 minute,Morning,7000,Yes,50%,More than 2 hour,30 - 60 minutes,Bad,Bad,No
+Yes,Male,B.com ISM,172,52,72,70,76,Cinema,2 - 3 hour,Anytime,25000,Yes,75%,30 - 60 Minute,30 - 60 minutes,Good,good,No
+Yes,Female,BCA,139,33,90,75,70,Cinema,30 - 60 minute,Night,20000,Yes,50%,30 - 60 Minute,2.30 - 3 hour,Bad,good,No
+Yes,Female,Commerce,153,58,85,74,75,Cinema,0 - 30 minute,Anytime,20000,Yes,75%,More than 2 hour,2.30 - 3 hour,Awful,good,No
+No,Female,B.com ISM,155,39,45,45,50,Sports,3 - 4 hour,Night,10,No,75%,30 - 60 Minute,2.30 - 3 hour,fabulous,good,No
